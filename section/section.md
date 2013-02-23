@@ -7,10 +7,13 @@ pull req の送り方
 ----------------
 
 -[@eed3si9n](https://twitter.com/eed3si9n)
+-[@eed3si9n_ja](https://twitter.com/eed3si9n_ja)
 
-#SUB or how I stopped worrying about bad English and love open source.
+#SUB or how I learned to stop worrying about bad English and love open source.
 
 !SLIDE
+
+コップ本:
 
 > Scala という名前は「スケーラブルな言語」を意味する。
 
@@ -21,8 +24,7 @@ pull req の送り方
 拡張性の高い言語
 --------------
 
-- 中置記法、implicit など言語に組み込まれていたかのような拡張をサポートする仕組み
-
+- 中置記法、implicit など
 
 #SUB infix, implicit, etc enables natural extension.
 
@@ -39,6 +41,7 @@ Java, C#, C++
 -------------
 
 - アメリカの本社が標準ライブラリを作ってる
+- 「本家」vs 「分家」
 
 #SUB std libs written by the hq in the US.
 
@@ -47,7 +50,7 @@ Java, C#, C++
 Scala
 -----
 
-- ML, twitter, github 上で言語とライブラリの開発がオープンに行われいる。
+- ML, twitter, github
 
 #SUB both the lang and libs are developed openly.
 
