@@ -1,0 +1,51 @@
+/* custom styles */
+body {
+  font-family: Optima, Helvetica, Sanserif;
+}
+
+h2 {
+
+}
+
+.content {
+
+}
+
+pre {
+  border-left: solid 1px gray;
+  padding-left: 0.5em;
+}
+
+blockquote {
+  font-family: Georgia, Serif;
+  display: block;
+  padding: 1em 60px;
+  width: 50%;
+}
+
+blockquote:before, blockquote:after {
+  color: #633;
+  display: block;
+  font-size: 200%;
+}
+
+blockquote:before {
+  content: '\201C';
+  height: 0;
+  margin-left: -0.55em;
+}
+
+blockquote:after {
+  content: '\201D';
+  height: 50px;
+  margin-top: -70px;
+  margin-left: 100%;
+}
+
+#slides .content .container {
+  height: 70% !important;
+}
+
+#slides .content .subtitle {
+  font-family: Helvetica, Sanserif;
+}
