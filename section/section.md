@@ -146,7 +146,7 @@ steps (再現手順)
 
 - 開発者自身のコンピュータ上で問題を再現する手順
 - スタックトレースのみとか無理
-- markdown でフォーマットする
+- markdown でフォーマットする (```scala)
 
 #SUB steps to reproduce on _dev_'s machine.
 
